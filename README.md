@@ -23,8 +23,8 @@ Include js to make wesite stable
 Software Development for start-ups
 
 # Authors and acknowledgment
->> Anuj Pratap Singh
->> Akshat Pandey
+Anuj Pratap Singh
+Akshat Pandey
 
 # Visuals
 https://bugbusters-technocrats.netlify.app/
