@@ -5,8 +5,8 @@ Deployed at netlify, can be view here https://bugbusters-technocrats.netlify.app
 Technocrats
 
 # Table of content:  
-indexe.html<br/>
-css/TechnoctratsStyle.css<br/>                               
+index.html<br/>
+css/TechnoctratsStyle.css                               
 About.html<br/>
 css/AboutStyle.css<br/>
 CoreTechs.html<br/>
