@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+html{
+    box-sizing: border-box;
+}
+
+body{
+    font-size: 1.5rem;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    background-color: #a2d5f2;
+    color: rgb(27, 54, 77);
+}
+
+#Top{ 
+    background-image: url("image/Technocrats/final.jpg");
+    background-size: 1340px 520px;
+} 
+
+#Top h2{
+    margin-left: 25px; 
+    color: rgb(227, 234, 240);; 
+    font-size: 2.5rem;
+    line-height: 1.6;
+}
+
+nav {
+    margin-left: 500px;
+    background-color: rgba(0, 128, 0, 0);
+    overflow: hidden;
+}
+
+nav a {
+   text-decoration: none;
+   padding: 20px;
+   text-align: center;
+   float: left;
+   color: #fed049;
+}
+
+nav a:hover{
+    background: #487e95;
+    border-radius: 4%;
+}
+
+.wrapingimage {
+    float: left;
+    display: inline-block;
+    margin: 1.5rem 1.5rem 0rem 1rem;
+    /* margin: 30px 12px 3px 4px; */
+}
+
+.wrapingimage img{
+    border-radius: 3%;
+}
+
+footer{
+    background-color: #007580;
+}
+
+footer p{
+    font-family: sans-serif;
+    float: left;
+    font-size: 1.1rem;
+    color: #0a0700;
+}
+
+.icons{
+    color: rgb(3, 6, 44);
+    float: right;
+    font-size: 1.5rem;
+    text-align: right;
+    margin-right: 2.5rem;
+    padding: 1rem;
+    line-height: 1.6;
+}
+
+.icons:hover{
+    cursor: pointer;
+}
+
+.Copyright{
+    text-align: center; 
+    font-size: 1rem; 
+    padding: 0.8rem; 
+    color: #02131a;
+}
+
+.Copyright hr{
+    color: #0a0700;
+}
