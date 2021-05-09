@@ -23,7 +23,7 @@ Include js to make wesite stable
 Software Development for start-ups
 
 # Authors and acknowledgment
-Anuj Pratap Singh <br/>  
+Anuj Pratap Singh \  
 Akshat Pandey
 
 # Visuals
